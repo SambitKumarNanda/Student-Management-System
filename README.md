@@ -1,2 +1,2 @@
 # Student-Management-System
-Student Mangaement System made using JSP, Servlets, JSTL
+Student Management System made using JSP, Servlets, JSTL
